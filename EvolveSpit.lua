@@ -12,6 +12,3 @@ for i=1,40 do
   end
 end
 end)
-
-
--- mount=348459
