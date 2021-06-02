@@ -1,5 +1,6 @@
 # EvolveSpit
-Spitting on Deluxe Edition buyers has never been so easy!
+
+Automatically /spits on "players" with the Deluxe Edition mount upon targeting them.
 
 
 FeelsOkayMan
